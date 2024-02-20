@@ -12,7 +12,7 @@ Before running the application, you need to have Python installed on your system
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/speech-recognition-app.git
+    git clone https://github.com/iarslankhalid/speech-recognition-app.git
     ```
 
 2. **Navigate to the project directory:**
